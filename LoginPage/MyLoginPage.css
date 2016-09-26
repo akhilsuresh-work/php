@@ -1,0 +1,25 @@
+body{
+	background-color: black;
+	background-image: url("wp.jpg");
+}
+
+.form_legend{
+
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+	border:none;
+}
+
+.formfield_1{
+	margin-top: 150px;
+	border-radius: 10px;
+	width: 50px;
+	height: 400px;
+	
+}
+
+.formfield_1 label{
+
+	font-weight: bold;
+}
