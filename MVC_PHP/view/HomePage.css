@@ -1,0 +1,139 @@
+body{
+	margin: 0px;
+	padding: 0;
+	background: #F3F2ED url(Images/6B4.jpg) repeat-x left top;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #464646;
+	height:100%;
+	width:100%;
+}
+
+.container {
+    display: block;
+    height: 100%;
+    width: 100%;
+}
+
+.logo{
+	color: white;	
+	font-size: 20px;
+}
+
+p, ul, ol {
+	margin-top: 0;
+	line-height: 240%;
+	text-align: justify;
+}
+
+#header-wrapper {
+	height: 60px;
+	background: #131313;
+}
+
+#header {
+	width: 920px;
+	margin: 0 auto;
+}
+
+#menu {
+	float: left;
+	width: 500px;
+}
+
+
+#menu ul {
+	margin: 0;
+	padding: 8px 0px 0px 0px;
+	list-style: none;
+	line-height: normal;
+}
+
+menu li {
+	background: url(Images/img01.jpg) no-repeat left 10px;
+	display: block;
+	float: left;
+}
+
+#menu a {
+	display: block;
+	float: left;
+	height: 32px;
+	padding: 14px 20px 0px 20px;
+	letter-spacing: -1px;
+	text-decoration: none;
+	text-align: center;
+	text-transform: lowercase;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 21px;
+	font-weight: normal;
+	color: #FFFFFF;
+}
+
+
+.form_legend{
+
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+	border:none;
+}
+
+.formfield_1{
+	border-radius: 10px;
+	
+	margin-top: 14%;
+	margin-right: 14%;
+	/*
+	width: 50px;
+	height: 330px;
+	*/
+}
+
+.formfield_1 label{
+
+	font-weight: bold;
+}
+
+
+
+#footer p {
+	margin: 0px;
+	padding: 30px 0px 0px 0px;
+	text-align: center;
+	line-height: normal;
+	font-size: 12px;
+	color:white;
+}
+
+
+#footer {
+	width: 100%;
+	height: 100px;
+	margin: 0 auto;
+	padding:0px;
+	margin-top: 50px;	
+	border-top: solid;
+	border-top-color: white;
+}
+
+#Login{
+	
+	float:right;
+    color:white;
+}
+
+
+#head{
+
+	color:red;
+}
+
+
+#Page{
+	height:100%;
+}
+
+#pagebody{
+	height:400px;
+}
